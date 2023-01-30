@@ -1,0 +1,91 @@
+
+.body{
+    margin: auto;
+    font-family: 'Kanit', sans-serif;
+}
+
+.logo{
+    font-size: 18px;
+}
+
+.hello{
+    margin: 10% 0%;
+    font-size: 48px;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+}
+
+.styles {
+    margin: 5% 7%
+}
+
+.author{
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+
+.button{
+    background: grey;
+    border-radius: 100px;
+    padding: 10px 20px;
+    font-size: 14px;
+    color: #F1F1F1;
+}
+
+.details{
+    display: flex;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.wrapper{
+    display: flex;
+    margin-bottom: 5%
+}
+
+.subtitle{
+    margin: 7% 0%;
+    font-size: 28px;
+} */
+
+.summary{
+    margin-bottom: 10%;
+    font-size: 16px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.list{
+
+    margin: 5% 7%;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 5% 7%;
+}
+
+.authorOf{
+    display: flex;
+    align-items: center;
+}
+
+.about{
+    font-size: 10px;
+}
+
+.textOf{
+    margin: 5% 7%;
+}
+
+.details p{
+    margin: 2%;
+}
